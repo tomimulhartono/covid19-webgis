@@ -1,0 +1,98 @@
+.jumbotron {
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    height: 800px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 410px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.jumbotron p {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.jumbotron .btn {
+    background-color: grey;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    border-radius: 50px;
+    border-color: #281d31;
+}
+
+
+.dropdown-menu {
+    background-color: #a82e3f;
+}
+
+.dropdown-menu :hover {
+    background-color: #a82e3f;
+}
+
+
+
+.jumbotron_gejala {
+    background-image: url(img/gejala.jpg);
+    background-size: cover;
+    height: 750px;
+    margin-top: -70px;
+    margin-bottom: 0px;
+}
+
+.jumbotron_gejala .display-4 {
+    color: #a82e3f;
+    margin-top: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 50px;
+}
+.jumbotron_gejala p {
+    color: #a82e3f;
+}
+
+
+.card-group {
+    width: 80%;
+    margin-left: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+
+
+
+
+.jumbotron_faq {
+    background-image: url(img/faq.jpg);
+    background-size: cover;
+    height: 750px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.jumbotron_faq .display-4 {
+    color: #a82e3f;
+    margin-top: 8px;
+    margin-left: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.jumbotron_faq p {
+    color: #a82e3f;
+    margin-left: 260px;
+    
+}
+
+.logo-footer {
+    float: right;
+}
+
+marquee {
+    color: lightgray;
+    font-size: 12px;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
